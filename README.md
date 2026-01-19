@@ -24,7 +24,7 @@ This plugin is developed in **Java** utilizing the Hytale modding API.
 
 ### Requirements
 * Hytale Game Client/Server
-* Java 17 (or the version required by the Hytale SDK)
+* Java 25 (or the version required by the Hytale SDK)
 
 ## Installation
 
