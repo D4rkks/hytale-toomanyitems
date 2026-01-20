@@ -13,7 +13,7 @@ A crafting guide plugin for Hytale. This plugin provides a interface for players
     * This will track your progress in real-time.
     * Dynamic checklist: `Iron Bars (2/5)` - automatically updates as you collect materials.
 * **Ingredient Tooltips:** Hover over ingredients to see where they are found or how they are processed.
-* 
+
 ## Upcoming Features (Roadmap)
 * **Advanced Filtering:** Sort items by rarity, combat stats, or material type.
 
