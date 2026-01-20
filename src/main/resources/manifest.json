@@ -1,0 +1,20 @@
+{
+  "Group": "dev.lass",
+  "Name": "TooManyItems",
+  "Version": "1.0.0",
+  "Description": "See all recipes and benches necessary to craft an item",
+  "Authors": [
+    {
+      "Name": "D4rkks",
+      "Email": "darksteamlass@gmail.com",
+      "Url": "https://gustavolass.site"
+    }
+  ],
+  "Website": "https://gustavolass.site",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "dev.lass.Main"
+}
